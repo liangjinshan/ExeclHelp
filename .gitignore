@@ -25,3 +25,5 @@ hs_err_pid*
 .settings/org.eclipse.core.resources.prefs
 .project
 .classpath
+.idea/
+ExeclHelp.iml
